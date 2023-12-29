@@ -6,6 +6,7 @@ Didn't find any yet, so here you go, hope someone finds it useful.
 
 Pritner specs needed for most slicers:
 
+```
 Name: Magician X2
 
 Print Width: 230.0 mm
@@ -13,6 +14,7 @@ Print Depth: 230.0 mm
 Print Height: 260.0 mm
 
 G-code flavor: Marlin (2)
+```
 
 # Start G-Code
 ```
