@@ -3,8 +3,9 @@ Cura profile and configs for Mingda Magician X2 3D printer.
 
 Didn't find any yet, so here you go, hope someone finds it useful.
 
+Download Slicer here: https://ultimaker.com/software/ultimaker-cura/
 
-Pritner specs needed for most slicers:
+Printer specs needed for most slicers:
 
 ```
 Name: Magician X2
