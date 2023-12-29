@@ -16,7 +16,7 @@ Print Height: 260.0 mm
 G-code flavor: Marlin (2)
 ```
 
-# Start G-Code
+# Cura Slicer Start G-Code
 ```
 
 M104 S180 ; Start pre-heating the nozzle to a safe temperature where the filament won't ooze to save time
@@ -30,7 +30,7 @@ G1 X0.1 Y20 Z0.3 F5000.0 ; Move to start position
 M109 S{material_print_temperature_layer_0} ; Wait until the nozzle is heated to the target temperature specified in Print Settings
 ```
 
-# End G-Code
+# Cura Slicer End G-Code
 ```
 M104 S0
 M140 S0
